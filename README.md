@@ -27,4 +27,4 @@ This project uses synthetic/anonymized credit union transaction data, structured
 - Integrate with additional data sources
 ## Running This Project
 Instructions for setting up the environment and running the analysis will be added as the project develops.
-![image](https://github.com/user-attachments/assets/03036740-e58c-4dbb-8f66-aaec7dcd6bc5)
+
